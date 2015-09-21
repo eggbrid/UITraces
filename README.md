@@ -1,7 +1,6 @@
 Android UI库
 ==================
 
-不错的UI库，UITracesDream，come from wasabeef。
 
 ### 选择 `(分类)`
 * [Material](pages/Material.md)
